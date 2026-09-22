@@ -1,4 +1,5 @@
 # apnacollage-demo
 its just a prectice.
 <br>
-Author - Subhramukul payra
+Author - Subhramukul payra (Apna collage)
+
